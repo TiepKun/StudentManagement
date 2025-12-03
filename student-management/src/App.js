@@ -116,7 +116,6 @@ function App() {
     <div className="app">
       <header>
         <h1>Quản lý học sinh</h1>
-        <p>CRUD cơ bản với React + Express + MongoDB</p>
       </header>
 
       <section className="card">
